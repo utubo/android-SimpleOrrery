@@ -1,0 +1,6 @@
+<svg height="512" viewBox="0 0 50 50" width="512" xmlns="http://www.w3.org/2000/svg">
+    <path d="M25 25m0 25a25 25 0 1 0 0-50a25 25 0 1 0 0 50" fill="#0007" />
+    <path d="M25 25m15 3a3 3 0 1 0 0-6a3 3 0 1 0 0 6" fill="#FFF" />
+    <path d="M25 25m0 15a15 15 0 1 0 0-30a15 15 0 1 0 0 30" fill="#0000" stroke="#FFF" />
+    <path d="M25 25m0 5a5 5 0 1 0 0-10a5 5 0 1 0 0 10" fill="#FFF" />
+</svg>
