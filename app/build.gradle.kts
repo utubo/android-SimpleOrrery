@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.simpleorrery"
+    namespace = "utb.dip.jp.simpleorrery"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,8 +12,9 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.simpleorrery"
+        applicationId = "utb.dip.jp.simpleorrery"
         minSdk = 31
+        //noinspection OldTargetApi
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"

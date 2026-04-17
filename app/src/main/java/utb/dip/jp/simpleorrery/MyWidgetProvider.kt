@@ -1,4 +1,4 @@
-package com.example.simpleorrery
+package utb.dip.jp.simpleorrery
 
 import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
