@@ -1,0 +1,20 @@
+# IDE
+.idea/
+*.iml
+
+# Build, Cache
+.gradle/
+build/
+/app/release/
+.externalNativeBuild/
+.cxx/
+
+# Artifacts
+*.apk
+*.aab
+*.apks
+
+# Local
+local.properties
+.DS_Store
+/captures/
