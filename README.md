@@ -1,4 +1,4 @@
-I want members of colose test.
+I need members for Closed test.
 
 
 1. Join the Google Group
